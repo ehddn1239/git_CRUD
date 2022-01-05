@@ -71,11 +71,6 @@
 			<locationURI>PARENT-2-PROJECT_LOC/Desktop/lch02/src/main/java/com</locationURI>
 		</link>
 		<link>
-			<name>src/main/resources/META-INF</name>
-			<type>2</type>
-			<locationURI>PARENT-2-PROJECT_LOC/Desktop/lch02/src/main/resources/META-INF</locationURI>
-		</link>
-		<link>
 			<name>src/main/resources/mappers</name>
 			<type>2</type>
 			<locationURI>PARENT-2-PROJECT_LOC/Desktop/lch02/src/main/resources/mappers</locationURI>
