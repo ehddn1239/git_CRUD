@@ -44,4 +44,41 @@
 		<nature>org.eclipse.wst.common.modulecore.ModuleCoreNature</nature>
 		<nature>org.eclipse.wst.jsdt.core.jsNature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>WEB-INF</name>
+			<type>2</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Desktop/lch02/src/main/webapp/WEB-INF</locationURI>
+		</link>
+		<link>
+			<name>target/classes</name>
+			<type>2</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Desktop/lch02/target/classes</locationURI>
+		</link>
+		<link>
+			<name>target/m2e-wtp</name>
+			<type>2</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Desktop/lch02/target/m2e-wtp</locationURI>
+		</link>
+		<link>
+			<name>target/test-classes</name>
+			<type>2</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Desktop/lch02/target/test-classes</locationURI>
+		</link>
+		<link>
+			<name>src/main/java/com</name>
+			<type>2</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Desktop/lch02/src/main/java/com</locationURI>
+		</link>
+		<link>
+			<name>src/main/resources/META-INF</name>
+			<type>2</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Desktop/lch02/src/main/resources/META-INF</locationURI>
+		</link>
+		<link>
+			<name>src/main/resources/mappers</name>
+			<type>2</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Desktop/lch02/src/main/resources/mappers</locationURI>
+		</link>
+	</linkedResources>
 </projectDescription>
