@@ -51,6 +51,11 @@
 			<locationURI>PARENT-2-PROJECT_LOC/Desktop/lch02/src/main/webapp/WEB-INF</locationURI>
 		</link>
 		<link>
+			<name>WEB-INF/views</name>
+			<type>2</type>
+			<locationURI>PARENT-4-PROJECT_LOC/comento/git_CRUD/lch02/src/main/webapp/WEB-INF/views</locationURI>
+		</link>
+		<link>
 			<name>target/classes</name>
 			<type>2</type>
 			<locationURI>PARENT-2-PROJECT_LOC/Desktop/lch02/target/classes</locationURI>
@@ -74,6 +79,51 @@
 			<name>src/main/resources/mappers</name>
 			<type>2</type>
 			<locationURI>PARENT-2-PROJECT_LOC/Desktop/lch02/src/main/resources/mappers</locationURI>
+		</link>
+		<link>
+			<name>src/main/resources/mappers/board-Mapper.xml</name>
+			<type>1</type>
+			<locationURI>PARENT-4-PROJECT_LOC/comento/git_CRUD/lch02/src/main/resources/mappers/board-Mapper.xml</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/WEB-INF/spring/root-context.xml</name>
+			<type>1</type>
+			<locationURI>PARENT-4-PROJECT_LOC/comento/git_CRUD/lch02/src/main/webapp/WEB-INF/spring/root-context.xml</locationURI>
+		</link>
+		<link>
+			<name>src/main/java/com/myp/controller/HomeController.java</name>
+			<type>1</type>
+			<locationURI>PARENT-4-PROJECT_LOC/comento/git_CRUD/lch02/src/main/java/com/myp/controller/HomeController.java</locationURI>
+		</link>
+		<link>
+			<name>src/main/java/com/myp/domain/BoardVO.java</name>
+			<type>1</type>
+			<locationURI>PARENT-4-PROJECT_LOC/comento/git_CRUD/lch02/src/main/java/com/myp/domain/BoardVO.java</locationURI>
+		</link>
+		<link>
+			<name>src/main/java/com/myp/persistence/BoardDAO.java</name>
+			<type>1</type>
+			<locationURI>PARENT-4-PROJECT_LOC/comento/git_CRUD/lch02/src/main/java/com/myp/persistence/BoardDAO.java</locationURI>
+		</link>
+		<link>
+			<name>src/main/java/com/myp/persistence/BoardDAOImpl.java</name>
+			<type>1</type>
+			<locationURI>PARENT-4-PROJECT_LOC/comento/git_CRUD/lch02/src/main/java/com/myp/persistence/BoardDAOImpl.java</locationURI>
+		</link>
+		<link>
+			<name>src/main/java/com/myp/service/BoardService.java</name>
+			<type>1</type>
+			<locationURI>PARENT-4-PROJECT_LOC/comento/git_CRUD/lch02/src/main/java/com/myp/service/BoardService.java</locationURI>
+		</link>
+		<link>
+			<name>src/main/java/com/myp/service/BoardServiceImple.java</name>
+			<type>1</type>
+			<locationURI>PARENT-4-PROJECT_LOC/comento/git_CRUD/lch02/src/main/java/com/myp/service/BoardServiceImple.java</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/WEB-INF/spring/appServlet/servlet-context.xml</name>
+			<type>1</type>
+			<locationURI>PARENT-4-PROJECT_LOC/comento/git_CRUD/lch02/src/main/webapp/WEB-INF/spring/appServlet/servlet-context.xml</locationURI>
 		</link>
 	</linkedResources>
 </projectDescription>
